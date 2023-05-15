@@ -1,6 +1,7 @@
 # Task-4
 ## Subtaski 1 i 2 w poniższym linku:
 https://drive.google.com/drive/u/2/folders/1WiwLcX7sG2XqEyw2Ld08cSQYJYq70chb
+
 ###Tutaj mój osobisty komentarz, do godziny 13:00 dnia 15.05.2023 nie mogłam przeprowadzić testów brzegowych ani równoważności, bo w czasie, kiedy testowałam aplikację nie udało mi się wejść w żadną kategorię i właściwie mogłam pracować tylko na materiale dostępnym na stronie głównej. Będę jeszcze dalej podejmować próby, jednak na chwilę obecną udostępniam, to co jest możliwe.
 Testy przeprowadzałam na 3 różnych urządzeniach: 
 - Samsung Galaxy S8
